@@ -1,5 +1,6 @@
 # 🔗 SmartLinkr-Backend
 
+<img width="804" height="1555" alt="SmartLinker Backend Architecture" src="https://github.com/user-attachments/assets/17a63a64-5076-423e-ac12-efd7333482ba" />
 
 A full-stack URL shortening platform with real-time analytics dashboard and secure authentication using Spring Boot, React.js, and PostgreSQL.
 
