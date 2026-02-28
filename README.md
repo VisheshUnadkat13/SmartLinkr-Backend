@@ -64,7 +64,6 @@ Spring Data JPA
 Spring Security
 JWT Authentication
 REST APIs
-
 🔹 Database
 PostgreSQL
 
